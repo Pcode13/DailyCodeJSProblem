@@ -1,0 +1,5 @@
+Write a javascript program to reverse an integer array.
+
+int[] inputArray = {1, 2, 3, 4, 5, 6};
+
+Output:   Reversed Array: [6, 5, 4, 3, 2, 1]
