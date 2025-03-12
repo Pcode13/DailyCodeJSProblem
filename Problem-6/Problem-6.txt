@@ -1,0 +1,2 @@
+ Input - " aabbaca ";
+ Output - 2a2b1a1c1a

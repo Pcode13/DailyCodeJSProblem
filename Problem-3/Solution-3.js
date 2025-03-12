@@ -21,3 +21,20 @@ The function `searchInsertPosition` has a time complexity of O(n log n) due to t
 The space complexity of the function is O(1) if we consider the space used by the input array itself and the sorting operation, which is done in place. However, if we consider the space used by the sorting algorithm (which may require additional space depending on the implementation), it could be O(n) in the worst case for some sorting algorithms. In summary, the space complexity is O(1) for in-place sorting, but could be O(n) depending on the sorting algorithm's implementation.
  */
 
+function searchInsertPosition(nums, target) {
+    let left = 0;
+    let right = nums.length;
+
+    while (left < right) {
+        let middle = Math.floor((left + right) / 2);
+        if (nums[middle] < target) {
+            left = middle + 1;
+        } else {
+            right = middle;
+        }
+    }
+    return left;
+}
+
+
+
