@@ -1,0 +1,10 @@
+Front-end Task:
+
+Find the Longest Substring Without Repeating Characters
+Problem:
+Write a function that returns the length of the longest substring without repeating characters.
+
+Input: (("bbbbb"));    
+
+
+Output: 1

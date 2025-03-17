@@ -1,0 +1,14 @@
+Front end Task:
+
+
+Find Anagrams in an Array
+Problem:
+Write a function that finds all anagrams in a given list of words. Return an array of arrays, where each sub-array contains words that are anagrams of each other.
+
+
+Input:
+
+(['eat', 'tea', 'tan', 'ate', 'nat', 'bat'])); 
+
+
+Output: [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
