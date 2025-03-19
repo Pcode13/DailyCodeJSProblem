@@ -1,0 +1,4 @@
+Problem Statement: Write a java8 program to find the sum of its digits using Java 8.
+ 
+Input: 73893848
+Output: 50

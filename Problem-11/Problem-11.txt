@@ -1,0 +1,10 @@
+Problem-Python Task:
+
+Problem Statement:
+
+Add two list elements together:
+
+input: list_1: [1,2,3]
+       list_2:[4,5,6]
+
+output: result:[5,7,9]
