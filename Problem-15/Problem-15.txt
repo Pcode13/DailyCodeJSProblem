@@ -1,0 +1,14 @@
+Python Task:
+
+Problem Statement:
+Program to find all pairs in both arrays whose sum is equal to given value x
+
+Input: 
+
+arr1[] = {-1, -2, 4, -6, 5, 7},
+
+arr2[] = {6, 3, 4, 0},
+
+x = 8
+
+Output: 4 4 5 3
